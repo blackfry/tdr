@@ -1,0 +1,5 @@
+
+// SAMPLE
+export const GET_SAMPLE_INITIATE =    'GET_SAMPLE_INITIATE';
+export const GET_SAMPLE_SUCCESS =     'GET_SAMPLE_SUCCESS';
+export const GET_SAMPLE_FAIL =        'GET_SAMPLE_FAIL';
